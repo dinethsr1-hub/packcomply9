@@ -1,0 +1,296 @@
+{
+  "metadata": {
+    "product": "PackComply",
+    "version": "1.1",
+    "purpose": "Multi-market export compliance screening with product/country rule matching",
+    "disclaimer": "Preliminary information only; not legal advice, certification, or a binding compliance determination."
+  },
+  "catalog": {
+    "products": [
+      {
+        "id": "food",
+        "name": "Food — General",
+        "group": "food"
+      },
+      {
+        "id": "cinnamon",
+        "name": "Cinnamon",
+        "group": "food"
+      },
+      {
+        "id": "tea",
+        "name": "Tea",
+        "group": "food"
+      },
+      {
+        "id": "coconut",
+        "name": "Coconut & coconut products",
+        "group": "food"
+      },
+      {
+        "id": "coffee",
+        "name": "Coffee",
+        "group": "food"
+      },
+      {
+        "id": "spices",
+        "name": "Spices — General",
+        "group": "food"
+      },
+      {
+        "id": "mushrooms",
+        "name": "Mushrooms / mushroom powder",
+        "group": "food"
+      },
+      {
+        "id": "beverage",
+        "name": "Beverages",
+        "group": "food"
+      },
+      {
+        "id": "fruit",
+        "name": "Fruits",
+        "group": "food"
+      },
+      {
+        "id": "vegetables",
+        "name": "Vegetables",
+        "group": "food"
+      },
+      {
+        "id": "processed_food",
+        "name": "Processed foods",
+        "group": "food"
+      },
+      {
+        "id": "seafood",
+        "name": "Seafood",
+        "group": "food"
+      },
+      {
+        "id": "fish",
+        "name": "Fish products",
+        "group": "food"
+      },
+      {
+        "id": "dairy",
+        "name": "Dairy products",
+        "group": "food"
+      },
+      {
+        "id": "cosmetic",
+        "name": "Cosmetics",
+        "group": "non_food"
+      },
+      {
+        "id": "chemical",
+        "name": "Chemicals",
+        "group": "non_food"
+      },
+      {
+        "id": "textile",
+        "name": "Garments & textiles",
+        "group": "non_food"
+      },
+      {
+        "id": "rubber",
+        "name": "Rubber products",
+        "group": "non_food"
+      },
+      {
+        "id": "electronics",
+        "name": "Electrical / electronic products",
+        "group": "non_food"
+      },
+      {
+        "id": "other",
+        "name": "Other product",
+        "group": "other"
+      },
+      {
+        "id": "coconut_oil",
+        "name": "Coconut oil",
+        "group": "food"
+      },
+      {
+        "id": "herbal_supplement",
+        "name": "Herbal / food supplement",
+        "group": "food"
+      },
+      {
+        "id": "live_plant",
+        "name": "Live plants / planting material",
+        "group": "plant"
+      },
+      {
+        "id": "nuts",
+        "name": "Nuts & nut products",
+        "group": "food"
+      },
+      {
+        "id": "rice",
+        "name": "Rice & rice products",
+        "group": "food"
+      },
+      {
+        "id": "natural_ingredients",
+        "name": "Natural / botanical ingredients",
+        "group": "food"
+      }
+    ],
+    "countries": [
+      "Germany",
+      "France",
+      "Netherlands",
+      "Italy",
+      "Spain",
+      "Belgium",
+      "Poland",
+      "Sweden",
+      "Denmark",
+      "Austria",
+      "Ireland",
+      "United Kingdom",
+      "United States",
+      "Canada",
+      "Australia",
+      "Japan",
+      "China",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "India",
+      "Qatar",
+      "Kuwait",
+      "Oman",
+      "Bahrain",
+      "New Zealand",
+      "Switzerland",
+      "Norway",
+      "Singapore",
+      "Malaysia",
+      "South Korea"
+    ]
+  },
+  "coverage": {
+    "Germany": {
+      "status": "verified",
+      "label": "EU + Germany starter rules"
+    },
+    "France": {
+      "status": "verified",
+      "label": "EU food rules; national packaging review limited"
+    },
+    "Netherlands": {
+      "status": "verified",
+      "label": "EU food rules; national packaging review limited"
+    },
+    "Italy": {
+      "status": "verified",
+      "label": "EU food rules"
+    },
+    "Spain": {
+      "status": "verified",
+      "label": "EU food rules"
+    },
+    "Belgium": {
+      "status": "verified",
+      "label": "EU food rules"
+    },
+    "Poland": {
+      "status": "verified",
+      "label": "EU food rules"
+    },
+    "Sweden": {
+      "status": "verified",
+      "label": "EU food rules"
+    },
+    "Denmark": {
+      "status": "verified",
+      "label": "EU food rules"
+    },
+    "Austria": {
+      "status": "verified",
+      "label": "EU food rules"
+    },
+    "Ireland": {
+      "status": "verified",
+      "label": "EU food rules"
+    },
+    "United Kingdom": {
+      "status": "verified",
+      "label": "UK starter rules"
+    },
+    "United States": {
+      "status": "verified",
+      "label": "US FDA starter rules"
+    },
+    "Canada": {
+      "status": "verified",
+      "label": "Canada SFCR starter rules"
+    },
+    "Australia": {
+      "status": "verified",
+      "label": "Australia starter rules"
+    },
+    "Japan": {
+      "status": "verified",
+      "label": "Japan starter rules"
+    },
+    "China": {
+      "status": "verified",
+      "label": "China starter rules"
+    },
+    "Saudi Arabia": {
+      "status": "verified",
+      "label": "Saudi Arabia starter rules"
+    },
+    "United Arab Emirates": {
+      "status": "verified",
+      "label": "UAE food starter rules"
+    },
+    "India": {
+      "status": "verified",
+      "label": "India FSSAI starter rules"
+    },
+    "Qatar": {
+      "status": "verified",
+      "label": "Qatar food-control starter rules"
+    },
+    "Kuwait": {
+      "status": "verified",
+      "label": "Kuwait imported-food starter rules"
+    },
+    "Oman": {
+      "status": "verified",
+      "label": "Oman food-product starter rules"
+    },
+    "Bahrain": {
+      "status": "verified",
+      "label": "Bahrain food-import starter rules"
+    },
+    "New Zealand": {
+      "status": "not_loaded",
+      "label": "Country rules not yet loaded"
+    },
+    "Switzerland": {
+      "status": "verified",
+      "label": "Swiss food starter rules"
+    },
+    "Norway": {
+      "status": "verified",
+      "label": "Norwegian food starter rules"
+    },
+    "Singapore": {
+      "status": "verified",
+      "label": "Singapore food starter rules"
+    },
+    "Malaysia": {
+      "status": "verified",
+      "label": "Malaysia food starter rules"
+    },
+    "South Korea": {
+      "status": "verified",
+      "label": "Korea food starter rules"
+    }
+  }
+}

@@ -1,0 +1,1326 @@
+[
+  {
+    "id": "EU-FIC-1169-2011",
+    "jurisdiction": "EU",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Germany",
+        "France",
+        "Netherlands",
+        "Italy",
+        "Spain",
+        "Belgium",
+        "Poland",
+        "Sweden",
+        "Denmark",
+        "Austria",
+        "Ireland"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy"
+      ]
+    },
+    "title": "EU Food Information & Labelling — Regulation (EU) No 1169/2011",
+    "type": "labelling",
+    "priority": "high",
+    "summary": "For prepacked foods intended for the final consumer, check mandatory food information such as name, ingredients, allergens, net quantity, date marking, storage/use instructions, responsible food business operator details and nutrition information, with additional rules for specific foods.",
+    "evidence": [
+      "Final label artwork",
+      "Ingredient specification",
+      "Allergen assessment",
+      "Net quantity and date-marking details",
+      "Nutrition information where applicable",
+      "Responsible EU food business operator details"
+    ],
+    "source": {
+      "name": "European Commission — Mandatory food information",
+      "url": "https://food.ec.europa.eu/food-safety/labelling-and-nutrition/food-information-consumers-legislation/mandatory-food-information_en"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "EU-MRL",
+    "jurisdiction": "EU",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Germany",
+        "France",
+        "Netherlands",
+        "Italy",
+        "Spain",
+        "Belgium",
+        "Poland",
+        "Sweden",
+        "Denmark",
+        "Austria",
+        "Ireland"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy"
+      ]
+    },
+    "title": "EU Pesticide Residue — Maximum Residue Levels (MRLs)",
+    "type": "food_safety",
+    "priority": "high",
+    "summary": "Check the current EU MRL database for the relevant active substance and commodity. Imported food must meet applicable EU residue limits; the actual value should be looked up rather than assumed.",
+    "evidence": [
+      "Product commodity definition",
+      "Pesticide residue test report where risk-based verification is needed",
+      "Supplier/GAP information"
+    ],
+    "source": {
+      "name": "European Commission — Maximum Residue Levels",
+      "url": "https://food.ec.europa.eu/plants/pesticides/maximum-residue-levels_en"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "EU-CONT-2023-915",
+    "jurisdiction": "EU",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Germany",
+        "France",
+        "Netherlands",
+        "Italy",
+        "Spain",
+        "Belgium",
+        "Poland",
+        "Sweden",
+        "Denmark",
+        "Austria",
+        "Ireland"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy"
+      ]
+    },
+    "title": "EU Food Contaminants — Regulation (EU) 2023/915",
+    "type": "food_safety",
+    "priority": "high",
+    "summary": "Check maximum levels for contaminants that are relevant to the product category. The exact contaminant/product combination must be verified in the current consolidated legal text.",
+    "evidence": [
+      "Product specification",
+      "Risk-based laboratory results",
+      "Supplier controls"
+    ],
+    "source": {
+      "name": "EUR-Lex — Regulation (EU) 2023/915",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02023R0915-20230810"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "EU-FCM-1935",
+    "jurisdiction": "EU",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Germany",
+        "France",
+        "Netherlands",
+        "Italy",
+        "Spain",
+        "Belgium",
+        "Poland",
+        "Sweden",
+        "Denmark",
+        "Austria",
+        "Ireland"
+      ],
+      "food_contact": "yes",
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy"
+      ]
+    },
+    "title": "EU Food Contact Materials — Regulation (EC) No 1935/2004",
+    "type": "food_contact",
+    "priority": "high",
+    "summary": "Food-contact materials need to meet the applicable EU general safety framework. Appearance alone cannot establish conformity.",
+    "evidence": [
+      "Material specification",
+      "Supplier Declaration of Compliance where applicable",
+      "Intended food/contact conditions",
+      "Traceability information"
+    ],
+    "source": {
+      "name": "EUR-Lex — Regulation (EC) No 1935/2004",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R1935"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "EU-PLASTIC-10-2011",
+    "jurisdiction": "EU",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Germany",
+        "France",
+        "Netherlands",
+        "Italy",
+        "Spain",
+        "Belgium",
+        "Poland",
+        "Sweden",
+        "Denmark",
+        "Austria",
+        "Ireland"
+      ],
+      "food_contact": "yes",
+      "material": [
+        "plastic",
+        "composite"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy"
+      ]
+    },
+    "title": "EU Plastic Food-Contact Materials — Regulation (EU) No 10/2011",
+    "type": "food_contact",
+    "priority": "high",
+    "summary": "Plastic food-contact materials are subject to specific EU requirements including authorised substances and migration-related rules. Exact material/layer structure must be established from technical documentation.",
+    "evidence": [
+      "Polymer/layer structure",
+      "Declaration of Compliance",
+      "Relevant migration testing/supporting documentation",
+      "Intended use conditions"
+    ],
+    "source": {
+      "name": "EUR-Lex — Regulation (EU) No 10/2011",
+      "url": "https://eur-lex.europa.eu/eli/reg/2011/10/oj/eng"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "EU-GMP-2023-2006",
+    "jurisdiction": "EU",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Germany",
+        "France",
+        "Netherlands",
+        "Italy",
+        "Spain",
+        "Belgium",
+        "Poland",
+        "Sweden",
+        "Denmark",
+        "Austria",
+        "Ireland"
+      ],
+      "food_contact": "yes",
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy"
+      ]
+    },
+    "title": "EU Food-Contact GMP — Regulation (EC) No 2023/2006",
+    "type": "food_contact",
+    "priority": "normal",
+    "summary": "Good manufacturing practice requirements apply to food-contact materials and articles. The relevant supplier/manufacturer controls should be checked.",
+    "evidence": [
+      "Supplier/manufacturer quality information",
+      "Traceability records where relevant",
+      "Quality-control documentation where relevant"
+    ],
+    "source": {
+      "name": "EUR-Lex — Regulation (EC) No 2023/2006",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32006R2023"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "EU-PPWR-2025-40",
+    "jurisdiction": "EU",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Germany",
+        "France",
+        "Netherlands",
+        "Italy",
+        "Spain",
+        "Belgium",
+        "Poland",
+        "Sweden",
+        "Denmark",
+        "Austria",
+        "Ireland"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy",
+        "cosmetic",
+        "other"
+      ],
+      "material": [
+        "plastic",
+        "paper",
+        "glass",
+        "metal",
+        "composite"
+      ]
+    },
+    "title": "EU Packaging and Packaging Waste — Regulation (EU) 2025/40",
+    "type": "packaging",
+    "priority": "normal",
+    "summary": "The PPWR creates EU packaging and packaging-waste requirements. Applicability, timing and actor responsibilities depend on the packaging and supply-chain role.",
+    "evidence": [
+      "Packaging composition",
+      "Packaging mass by material",
+      "Technical specifications",
+      "Supply-chain/producer role"
+    ],
+    "source": {
+      "name": "EUR-Lex — Regulation (EU) 2025/40",
+      "url": "https://eur-lex.europa.eu/eli/reg/2025/40/oj/eng"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "DE-LUCID",
+    "jurisdiction": "Germany",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Germany"
+      ],
+      "b2c": "yes",
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy",
+        "cosmetic",
+        "other"
+      ]
+    },
+    "title": "Germany Packaging EPR — LUCID / producer-obligation screening",
+    "type": "epr",
+    "priority": "high",
+    "summary": "Check whether the actual producer/importer role and packaging classification trigger German packaging registration, system participation and reporting obligations.",
+    "evidence": [
+      "Producer/importer role",
+      "Packaging classification",
+      "Material and mass",
+      "LUCID registration status where applicable",
+      "Distribution model"
+    ],
+    "source": {
+      "name": "ZSVR — LUCID registration guidance",
+      "url": "https://www.verpackungsregister.org/en/registration/find-out-about-registrations"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "UK-FOOD-IMPORT",
+    "jurisdiction": "UK",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "United Kingdom"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy"
+      ]
+    },
+    "title": "UK Food Import & Labelling — preliminary screening",
+    "type": "food_import",
+    "priority": "high",
+    "summary": "UK food imports need to meet applicable UK food law and labelling requirements. The exact controls depend on commodity, origin, product presentation and import route.",
+    "evidence": [
+      "UK-compliant label artwork",
+      "Product specification",
+      "Import documentation",
+      "Commodity-specific requirements"
+    ],
+    "source": {
+      "name": "GOV.UK — Food safety and hygiene for your business",
+      "url": "https://www.gov.uk/food-safety-hygiene"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "UK-EPR-PACKAGING",
+    "jurisdiction": "UK",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "United Kingdom"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy",
+        "cosmetic",
+        "other"
+      ],
+      "b2c": "yes"
+    },
+    "title": "UK Packaging EPR — producer obligation screening",
+    "type": "epr",
+    "priority": "normal",
+    "summary": "Packaging EPR obligations can apply depending on the producer activity, UK establishment, packaging quantities and turnover thresholds. The exact obligation must be assessed for the business role.",
+    "evidence": [
+      "UK establishment status",
+      "Annual turnover",
+      "Packaging weight",
+      "Packaging activity/role",
+      "Packaging data"
+    ],
+    "source": {
+      "name": "GOV.UK — Check if you must comply with EPR for packaging",
+      "url": "https://www.gov.uk/guidance/check-if-you-must-comply-with-epr-for-packaging--2"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "US-FOOD-IMPORT",
+    "jurisdiction": "USA",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "United States"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy"
+      ]
+    },
+    "title": "US Food Import — FDA screening",
+    "type": "food_import",
+    "priority": "high",
+    "summary": "Imported food must meet applicable US requirements. Depending on the product and supply chain, requirements can include food facility registration, prior notice, labelling, FSMA/FSVP and commodity-specific controls.",
+    "evidence": [
+      "US label artwork",
+      "Facility registration details where applicable",
+      "Prior Notice information",
+      "FSVP/importer information where applicable",
+      "Product-specific documentation"
+    ],
+    "source": {
+      "name": "FDA — Importing Food Products into the United States",
+      "url": "https://www.fda.gov/food/food-imports-exports/importing-food-products-united-states"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "CAN-FOOD-IMPORT",
+    "jurisdiction": "Canada",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Canada"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy"
+      ]
+    },
+    "title": "Canada Food Import — SFCR screening",
+    "type": "food_import",
+    "priority": "high",
+    "summary": "Canadian food imports generally require checks under the Safe Food for Canadians Regulations, including importer licensing, preventive controls and traceability, with additional commodity-specific requirements in some cases.",
+    "evidence": [
+      "Canadian importer licence details",
+      "Preventive control information",
+      "Traceability records",
+      "Commodity-specific permit/certificate where applicable"
+    ],
+    "source": {
+      "name": "CFIA — Importing food to Canada: general requirements",
+      "url": "https://inspection.canada.ca/en/importing-food-plants-animals/food-imports/general-requirements"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "AUS-FOOD-IMPORT",
+    "jurisdiction": "Australia",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Australia"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy"
+      ]
+    },
+    "title": "Australia Food Import — Food Standards Code & border screening",
+    "type": "food_import",
+    "priority": "high",
+    "summary": "Food imported for sale in Australia must comply with the Australia New Zealand Food Standards Code and applicable biosecurity and imported-food controls.",
+    "evidence": [
+      "Australian-compliant label",
+      "Product specification",
+      "Import/biosecurity documentation where applicable",
+      "Food safety documentation"
+    ],
+    "source": {
+      "name": "FSANZ — Imported foods",
+      "url": "https://www.foodstandards.gov.au/consumer/imported-foods"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "JPN-FOOD-IMPORT",
+    "jurisdiction": "Japan",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Japan"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy"
+      ]
+    },
+    "title": "Japan Food Import — Food Sanitation Act notification screening",
+    "type": "food_import",
+    "priority": "high",
+    "summary": "Importers of food, food additives, apparatus, containers and packaging for sale or business use must submit an import notification as required under Japan's Food Sanitation Act. Additional product-specific controls may apply.",
+    "evidence": [
+      "Import notification information",
+      "Product specification",
+      "Japanese label information",
+      "Food-contact packaging information where applicable"
+    ],
+    "source": {
+      "name": "MHLW — Imported Food Safety / Import Procedure",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/yunyu_kanshi/index_00017.html"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "CHN-PREPACK",
+    "jurisdiction": "China",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "China"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy"
+      ]
+    },
+    "title": "China Imported Prepacked Food — Chinese labelling screening",
+    "type": "labelling",
+    "priority": "high",
+    "summary": "Imported prepackaged foods are subject to Chinese food-safety and labelling requirements. Chinese-language labelling and required origin/domestic agent information should be checked against the applicable standards and import model.",
+    "evidence": [
+      "Chinese label artwork",
+      "Country of origin information",
+      "China-based agent/importer details",
+      "Product specification",
+      "Applicable GB standards"
+    ],
+    "source": {
+      "name": "SAMR — Food Safety Law of the PRC",
+      "url": "https://www.samr.gov.cn/spxts/gzdt/art/2023/art_a54cbedacfd44ff5bd2b40504ea98649.html"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "SAU-FOOD-IMPORT",
+    "jurisdiction": "Saudi Arabia",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Saudi Arabia"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy"
+      ]
+    },
+    "title": "Saudi Arabia Food Import — SFDA conditions & requirements screening",
+    "type": "food_import",
+    "priority": "high",
+    "summary": "Saudi food imports are subject to SFDA conditions and requirements. Exact documentation and product controls depend on the food category and shipment circumstances.",
+    "evidence": [
+      "Product specification",
+      "Saudi label artwork",
+      "Importer/SFDA information where applicable",
+      "Certificates or test reports where applicable"
+    ],
+    "source": {
+      "name": "SFDA — Conditions & Requirements for Importing Food to Saudi Arabia",
+      "url": "https://www.sfda.gov.sa/en/regulations/66195"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "EU-TEA-PA-2023-915",
+    "jurisdiction": "EU",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Germany",
+        "France",
+        "Netherlands",
+        "Italy",
+        "Spain",
+        "Belgium",
+        "Poland",
+        "Sweden",
+        "Denmark",
+        "Austria",
+        "Ireland"
+      ],
+      "products": [
+        "tea"
+      ]
+    },
+    "title": "EU Tea — Pyrrolizidine Alkaloids screening",
+    "type": "contaminant",
+    "priority": "high",
+    "summary": "Tea (Camellia sinensis), including flavoured tea, is subject to a maximum level for pyrrolizidine alkaloids under Regulation (EU) 2023/915. Check the current consolidated text and product presentation before relying on the limit.",
+    "evidence": [
+      "Tea specification and botanical composition",
+      "Laboratory test report where risk-based verification is required",
+      "Supplier controls / agricultural traceability"
+    ],
+    "source": {
+      "name": "EUR-Lex — Regulation (EU) 2023/915",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32023R0915"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "EU-SPICE-PAH-2023-915",
+    "jurisdiction": "EU",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Germany",
+        "France",
+        "Netherlands",
+        "Italy",
+        "Spain",
+        "Belgium",
+        "Poland",
+        "Sweden",
+        "Denmark",
+        "Austria",
+        "Ireland"
+      ],
+      "products": [
+        "cinnamon",
+        "spices"
+      ]
+    },
+    "title": "EU Dried Spices — PAH screening",
+    "type": "contaminant",
+    "priority": "high",
+    "summary": "Dried spices are subject to maximum levels for benzo[a]pyrene and the sum of four PAHs under Regulation (EU) 2023/915. Confirm the exact commodity and current consolidated provision.",
+    "evidence": [
+      "Spice specification",
+      "PAH laboratory report where risk-based verification is required",
+      "Supplier process / drying controls"
+    ],
+    "source": {
+      "name": "EUR-Lex — Regulation (EU) 2023/915",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32023R0915"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "EU-COCONUT-OIL-PAH-2023-915",
+    "jurisdiction": "EU",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Germany",
+        "France",
+        "Netherlands",
+        "Italy",
+        "Spain",
+        "Belgium",
+        "Poland",
+        "Sweden",
+        "Denmark",
+        "Austria",
+        "Ireland"
+      ],
+      "products": [
+        "coconut_oil"
+      ]
+    },
+    "title": "EU Coconut Oil — PAH screening",
+    "type": "contaminant",
+    "priority": "high",
+    "summary": "Regulation (EU) 2023/915 sets maximum levels for PAHs in coconut oil placed on the market for the final consumer or used as an ingredient in food. Check the current consolidated text for the applicable product condition.",
+    "evidence": [
+      "Coconut oil specification",
+      "PAH laboratory report where risk-based verification is required",
+      "Refining / processing information"
+    ],
+    "source": {
+      "name": "EUR-Lex — Regulation (EU) 2023/915",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32023R0915"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "UK-SPICE-IMPORT",
+    "jurisdiction": "UK",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "United Kingdom"
+      ],
+      "products": [
+        "cinnamon",
+        "spices"
+      ]
+    },
+    "title": "UK Herbs & Spices — import screening",
+    "type": "food_import",
+    "priority": "high",
+    "summary": "UK guidance for herbs and spices covers standards, labelling, packaging, food hygiene, pesticides, contaminants and possible higher-risk official controls. Check the current commodity-specific position before shipment.",
+    "evidence": [
+      "UK label artwork",
+      "Product specification",
+      "Pesticide / contaminant evidence where relevant",
+      "Import route and commodity classification"
+    ],
+    "source": {
+      "name": "GOV.UK — Importing herbs and spices",
+      "url": "https://www.gov.uk/government/publications/importing-herbs-and-spices/importing-herbs-and-spices"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "UK-TEA-IMPORT",
+    "jurisdiction": "UK",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "United Kingdom"
+      ],
+      "products": [
+        "tea"
+      ]
+    },
+    "title": "UK Tea — drinks / food import screening",
+    "type": "food_import",
+    "priority": "high",
+    "summary": "Tea imports need to meet UK food safety, labelling and contaminant requirements; commodity-specific import controls should be checked against the current UK guidance and tariff/controls systems.",
+    "evidence": [
+      "UK label artwork",
+      "Tea specification",
+      "Contaminant/pesticide evidence where relevant",
+      "Import documentation"
+    ],
+    "source": {
+      "name": "Food Standards Agency — Imports and exports",
+      "url": "https://www.food.gov.uk/business-guidance/imports-exports"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "UAE-FOOD-REG",
+    "jurisdiction": "UAE",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "United Arab Emirates"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coconut_oil",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy",
+        "herbal_supplement",
+        "nuts",
+        "rice",
+        "natural_ingredients"
+      ]
+    },
+    "title": "UAE Food — product registration & import release screening",
+    "type": "food_import",
+    "priority": "high",
+    "summary": "UAE food products may require product registration and local authority controls. The UAE government states imported or locally produced food should be registered in the ZAD system before being handled in UAE markets; local emirate procedures also apply.",
+    "evidence": [
+      "Product registration information",
+      "UAE label artwork",
+      "Importer/local authority details",
+      "Product specification and supporting certificates"
+    ],
+    "source": {
+      "name": "UAE Government — Food safety / ZAD",
+      "url": "https://u.ae/en/information-and-services/health-and-fitness/food-safety-and-health-tips"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "UAE-DUBAI-FOOD-RELEASE",
+    "jurisdiction": "UAE",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "United Arab Emirates"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coconut_oil",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy",
+        "herbal_supplement",
+        "nuts",
+        "rice",
+        "natural_ingredients"
+      ]
+    },
+    "title": "Dubai — imported food consignment release screening",
+    "type": "food_import",
+    "priority": "normal",
+    "summary": "For Dubai-bound food, Dubai Municipality provides services for registering and assessing food items and releasing imported food consignments for the local market. Emirate-specific procedures should be checked.",
+    "evidence": [
+      "Food item registration/assessment",
+      "Importer details",
+      "Shipment documentation",
+      "Label and product documents"
+    ],
+    "source": {
+      "name": "Dubai Municipality — Food Safety Department services",
+      "url": "https://www.dm.gov.ae/municipality-business/food-safety-department-2/"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "INDIA-FSSAI-IMPORT",
+    "jurisdiction": "India",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "India"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coconut_oil",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy",
+        "herbal_supplement",
+        "nuts",
+        "rice",
+        "natural_ingredients"
+      ]
+    },
+    "title": "India — FSSAI food import & clearance screening",
+    "type": "food_import",
+    "priority": "high",
+    "summary": "Food imports into India are regulated under the Food Safety and Standards Act and FSS (Import) Regulations. FSSAI states imported food may undergo document scrutiny, visual inspection, sampling and testing through the import clearance system.",
+    "evidence": [
+      "Indian importer/FSSAI licence information",
+      "Bill of Entry and import documents",
+      "Product specification",
+      "Certificate of Analysis where required",
+      "Label artwork"
+    ],
+    "source": {
+      "name": "FSSAI — Food Imports",
+      "url": "https://www.fssai.gov.in/business/import"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "INDIA-LABEL-PACK",
+    "jurisdiction": "India",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "India"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coconut_oil",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy",
+        "herbal_supplement",
+        "nuts",
+        "rice",
+        "natural_ingredients"
+      ]
+    },
+    "title": "India — food labelling & packaging screening",
+    "type": "labelling",
+    "priority": "high",
+    "summary": "Check the current FSSAI Labelling and Display requirements and applicable packaging rules for the product and presentation. Current amendments must be reviewed before shipment.",
+    "evidence": [
+      "India label artwork",
+      "Ingredient and allergen information",
+      "Nutrition information",
+      "Packaging specification"
+    ],
+    "source": {
+      "name": "FSSAI — Product standards and regulations",
+      "url": "https://www.fssai.gov.in/standards/product-standards"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "OMAN-FOOD-REG",
+    "jurisdiction": "Oman",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Oman"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coconut_oil",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy",
+        "herbal_supplement",
+        "nuts",
+        "rice",
+        "natural_ingredients"
+      ]
+    },
+    "title": "Oman — food product registration screening",
+    "type": "food_import",
+    "priority": "high",
+    "summary": "Oman provides a food product registration service for imported or locally produced food and requires product/label information, nutrition information, invoice/packing list, laboratory evidence and, for imports, a health certificate from the country of origin.",
+    "evidence": [
+      "Food product photo",
+      "Product label PDF",
+      "Nutrition facts report",
+      "Invoice and packing list",
+      "Laboratory report",
+      "Origin health certificate where applicable"
+    ],
+    "source": {
+      "name": "Gov.om — Food Product Registration Certificate",
+      "url": "https://gov.om/en/w/apply-for-a-food-product-registration-certificate"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "KUWAIT-FOOD-IMPORT",
+    "jurisdiction": "Kuwait",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Kuwait"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coconut_oil",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy",
+        "herbal_supplement",
+        "nuts",
+        "rice",
+        "natural_ingredients"
+      ]
+    },
+    "title": "Kuwait — imported food regulation screening",
+    "type": "food_import",
+    "priority": "high",
+    "summary": "Kuwait’s Public Authority for Food and Nutrition publishes regulations governing imported food. Check the current imported-food regulation and any product-specific requirements before shipment.",
+    "evidence": [
+      "Product specification",
+      "Importer information",
+      "Label artwork",
+      "Required health/analysis certificates where applicable",
+      "Shipment documents"
+    ],
+    "source": {
+      "name": "PAFN — Regulations and Laws",
+      "url": "https://www.pafn.gov.kw/en/RegulationsLaws?PageID=22"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "BAHRAIN-FOOD-IMPORT",
+    "jurisdiction": "Bahrain",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Bahrain"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coconut_oil",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy",
+        "herbal_supplement",
+        "nuts",
+        "rice",
+        "natural_ingredients"
+      ]
+    },
+    "title": "Bahrain — food import service screening",
+    "type": "food_import",
+    "priority": "high",
+    "summary": "Bahrain Ministry of Health provides a Food Import Service involving documentation and coordination with customs and other authorities. Exact documentary and product requirements should be checked for the shipment.",
+    "evidence": [
+      "Import documentation",
+      "Product details",
+      "Importer/supplier information",
+      "Health certificate or analysis where applicable"
+    ],
+    "source": {
+      "name": "Bahrain Ministry of Health — Food Import Service",
+      "url": "https://www.moh.gov.bh/VirtualServiceCenter/FoodImportService"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "QATAR-FOOD-REG",
+    "jurisdiction": "Qatar",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Qatar"
+      ],
+      "products": [
+        "food",
+        "cinnamon",
+        "tea",
+        "coconut",
+        "coconut_oil",
+        "coffee",
+        "spices",
+        "mushrooms",
+        "beverage",
+        "fruit",
+        "vegetables",
+        "processed_food",
+        "seafood",
+        "fish",
+        "dairy",
+        "herbal_supplement",
+        "nuts",
+        "rice",
+        "natural_ingredients"
+      ]
+    },
+    "title": "Qatar — food registration / border-control screening",
+    "type": "food_import",
+    "priority": "high",
+    "summary": "Qatar’s Ministry of Public Health food-control materials describe food registration and technical requirements. Confirm current registration, labelling and import-control requirements with the importer and competent authority.",
+    "evidence": [
+      "Food registration information",
+      "Product label/data card",
+      "Product specification",
+      "Importer information",
+      "Test reports where applicable"
+    ],
+    "source": {
+      "name": "Qatar Ministry of Public Health — Food Registration System",
+      "url": "https://emsfsa.moph.gov.qa/en/border-port-health/MOPH_Documents/Guides/food%20registration%20general%20principles%20for%20food%20establishments.pdf"
+    },
+    "verified": "2026-10-17"
+  },
+  {
+    "id": "EU-SL-CAPSICUM-2019-1793",
+    "jurisdiction": "EU",
+    "coverage": "verified",
+    "trigger": {
+      "countries": [
+        "Germany",
+        "France",
+        "Netherlands",
+        "Italy",
+        "Spain",
+        "Belgium",
+        "Poland",
+        "Sweden",
+        "Denmark",
+        "Austria",
+        "Ireland"
+      ],
+      "origin": "Sri Lanka",
+      "products": [
+        "spices"
+      ]
+    },
+    "title": "EU — Sri Lanka dried Capsicum / pepper controls screening",
+    "type": "official_controls",
+    "priority": "high",
+    "summary": "Certain dried Capsicum products from Sri Lanka are listed under the EU temporary increased official controls/emergency-measures framework. This rule is commodity-specific and should be matched to the exact HS/CN code; it must not be generalized to all Sri Lankan spices.",
+    "evidence": [
+      "Exact CN/HS classification",
+      "Official certificate / analytical report if applicable",
+      "Consignment sampling/analysis documentation",
+      "Origin evidence"
+    ],
+    "source": {
+      "name": "EUR-Lex — Implementing Regulation (EU) 2019/1793 and amendments",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32019R1793"
+    },
+    "verified": "2026-10-17"
+  }
+]

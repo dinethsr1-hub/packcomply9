@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/ai-inspector",
+      "destination": "/ai-inspector.html"
+    }
+  ]
+}
